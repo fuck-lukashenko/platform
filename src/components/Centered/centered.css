@@ -1,0 +1,11 @@
+.centered {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.centered__content {
+  padding: 5px 12px;
+}
